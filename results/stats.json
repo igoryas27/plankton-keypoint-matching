@@ -1,0 +1,195 @@
+{
+  "organism": "Bosmina longirostris",
+  "images": [
+    "Bosmina longirostris 1.jpg",
+    "Bosmina longirostris 2.jpg",
+    "Bosmina longirostris 3.jpg",
+    "Bosmina longirostris 4.jpg",
+    "Bosmina longirostris 5.jpg",
+    "Bosmina longirostris 6.jpg"
+  ],
+  "image_shapes": [
+    [
+      1050,
+      1400
+    ],
+    [
+      1171,
+      1400
+    ],
+    [
+      1400,
+      1158
+    ],
+    [
+      1258,
+      1400
+    ],
+    [
+      1351,
+      1400
+    ],
+    [
+      632,
+      778
+    ]
+  ],
+  "original_shapes": [
+    [
+      1944,
+      2592
+    ],
+    [
+      2513,
+      3005
+    ],
+    [
+      1944,
+      1608
+    ],
+    [
+      1760,
+      1959
+    ],
+    [
+      2094,
+      2170
+    ],
+    [
+      632,
+      778
+    ]
+  ],
+  "sift_points": [
+    3000,
+    3000,
+    3000,
+    3001,
+    3000,
+    378
+  ],
+  "params": {
+    "max_side": 1400,
+    "ratio": 0.75,
+    "ransac_px": 5.0,
+    "nfeatures": 3000,
+    "contrastThreshold": 0.025,
+    "edgeThreshold": 12,
+    "sigma": 1.6
+  },
+  "pairs": [
+    {
+      "image_a": 1,
+      "image_b": 2,
+      "ratio_forward": 15,
+      "mutual": 1,
+      "geometry_inliers": 0
+    },
+    {
+      "image_a": 1,
+      "image_b": 3,
+      "ratio_forward": 5,
+      "mutual": 1,
+      "geometry_inliers": 0
+    },
+    {
+      "image_a": 1,
+      "image_b": 4,
+      "ratio_forward": 13,
+      "mutual": 3,
+      "geometry_inliers": 0
+    },
+    {
+      "image_a": 1,
+      "image_b": 5,
+      "ratio_forward": 24,
+      "mutual": 0,
+      "geometry_inliers": 0
+    },
+    {
+      "image_a": 1,
+      "image_b": 6,
+      "ratio_forward": 20,
+      "mutual": 1,
+      "geometry_inliers": 0
+    },
+    {
+      "image_a": 2,
+      "image_b": 3,
+      "ratio_forward": 14,
+      "mutual": 5,
+      "geometry_inliers": 0
+    },
+    {
+      "image_a": 2,
+      "image_b": 4,
+      "ratio_forward": 20,
+      "mutual": 7,
+      "geometry_inliers": 0
+    },
+    {
+      "image_a": 2,
+      "image_b": 5,
+      "ratio_forward": 20,
+      "mutual": 3,
+      "geometry_inliers": 0
+    },
+    {
+      "image_a": 2,
+      "image_b": 6,
+      "ratio_forward": 31,
+      "mutual": 1,
+      "geometry_inliers": 0
+    },
+    {
+      "image_a": 3,
+      "image_b": 4,
+      "ratio_forward": 8,
+      "mutual": 5,
+      "geometry_inliers": 0
+    },
+    {
+      "image_a": 3,
+      "image_b": 5,
+      "ratio_forward": 12,
+      "mutual": 1,
+      "geometry_inliers": 0
+    },
+    {
+      "image_a": 3,
+      "image_b": 6,
+      "ratio_forward": 15,
+      "mutual": 0,
+      "geometry_inliers": 0
+    },
+    {
+      "image_a": 4,
+      "image_b": 5,
+      "ratio_forward": 20,
+      "mutual": 3,
+      "geometry_inliers": 0
+    },
+    {
+      "image_a": 4,
+      "image_b": 6,
+      "ratio_forward": 20,
+      "mutual": 0,
+      "geometry_inliers": 0
+    },
+    {
+      "image_a": 5,
+      "image_b": 6,
+      "ratio_forward": 42,
+      "mutual": 4,
+      "geometry_inliers": 0
+    }
+  ],
+  "total_mutual": 35,
+  "total_geometry": 0,
+  "global_tracks": 0,
+  "visualized": 0,
+  "pair_example": [
+    2,
+    4
+  ]
+}
